@@ -1,7 +1,7 @@
 
 
 # NoteTaker
-  ![Mozilla Add-on](https://img.shields.io/amo/v/blue?color=blue&label=employee%20Rosterizer&logoColor=white)
+  ![Mozilla Add-on](https://img.shields.io/amo/v/blue?color=blue&label=eNote%20Taker&logoColor=white)
   
  ## Description
  
@@ -9,7 +9,7 @@
  
  
 
- link to github repo:https://jessealdana.github.io/employeeRoster/
+ link to github repo:https://jessealdana.github.io/noteTaker/
  
  ## Table of Contents
   * [Installation](#Installation)
